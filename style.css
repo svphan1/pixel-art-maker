@@ -1,7 +1,8 @@
 body {
     background: #E9EFB4;
-    background-image: url("game.png");
-    background-size: 100%;
+    background-image: url("games.jpg");
+    background-repeat: no-repeat;
+    background-size: 137%;
 }
 
 .title {
@@ -17,6 +18,7 @@ body {
 
 div {
     text-align: center;
+    color: color;
     display: flex;
     align-items: center;
     justify-content: center;
