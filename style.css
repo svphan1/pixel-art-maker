@@ -1,0 +1,34 @@
+body {
+    background: #E9EFB4;
+    background-image: url("game.png");
+    background-size: 100%;
+}
+
+.title {
+    font-family: "Monoton";
+    color: #272E26;
+}
+
+.choose {
+    font-family: "Monoton";
+    font-size: 20px;
+    color: #272E26;
+}
+
+div {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#canvas {
+    background-color: black;
+}
+
+.pixel {
+    background-color: white;
+    height: 20px;
+    width: 20px;
+}
