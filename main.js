@@ -2,8 +2,8 @@ var div = document.querySelector("div");
 var body = document.querySelector("body");
 var height = document.querySelector("#rows_height");
 var width = document.querySelector("#col_width");
-var grid = document.querySelector("#createGrid")
-var color = document.querySelector("#palette")
+var grid = document.querySelector("#createGrid");
+var color = document.querySelector("#palette");
 
 var table = document.createElement("table");
 table.id = "canvas";
@@ -14,7 +14,7 @@ var canvas = document.querySelector("#canvas");
 palette.addEventListener("click", function(){});
 
 grid.onsubmit = function(e) {
-    e.preventDefault()
+    e.preventDefault();
     createGrid();
 }
 
