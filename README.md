@@ -1,5 +1,5 @@
 # Pixel Art Maker
-surge link: <a>pixel-art-son.surge.sh</a>
+surge link: pixel-art-son.surge.sh
 
 In this exercise, you'll create your own pixel art maker which will allow a user to choose colors from a palette and then paint pixel art. The interface is completely up to you, but it could look something like this.
 
